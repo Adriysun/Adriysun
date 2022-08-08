@@ -4,6 +4,19 @@ Bem vindo ao meu perfil do Github 👋
   
 ![helloworldB](https://user-images.githubusercontent.com/105469229/183528135-5d85b827-0ddf-4bd6-a2dc-948c7e317db8.jpg)
 
+- Atualmente estudo Desenvolvimento de Sistemas no COTUCA 💻
+### Estou aprendendo:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40" /> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+          
+
+          
+          
+
+
 <h1></h1>
 
 
